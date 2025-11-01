@@ -1,4 +1,4 @@
-// Arduino simuliert NAND-Gliedc
+// Arduino simuliert NAND-Glied
 const int IN_BTN_A = 2;
 const int IN_BTN_B = 3;
 const int OUT_PIN_Q = 5;
