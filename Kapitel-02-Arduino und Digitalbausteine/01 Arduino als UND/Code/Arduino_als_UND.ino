@@ -1,4 +1,4 @@
-// Arduino simuliert NAND-Gliedc
+// Arduino simuliert UND-Glied
 const int IN_BTN_A = 2;
 const int IN_BTN_B = 3;
 const int OUT_PIN_Q = 5;
@@ -18,7 +18,7 @@ void loop()
 
     a = digitalRead(IN_BTN_A) == LOW; 	//Eingänge einlesen 
     b = digitalRead(IN_BTN_B) == LOW; 
-    q = !(a && b);				              //Signale verknüpfen
+    q = (a && b);				              //Signale verknüpfen
 
     if(q)			//Ergebnis anzeigen
     {
