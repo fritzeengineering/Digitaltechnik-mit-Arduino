@@ -2,7 +2,8 @@
 Hallo, Willkommen bei meinem Projekt "Digitaltechnik mit Arduino".
 
 ### Warum gibt es dieses Projekt?
-Viele Einsteiger lernen Arduino nur über fertige Beispielcodes. Die Grundlagen der digitalen Logik gehen dabei oft verloren. Gleichzeitig wirken klassische Digitaltechnik-Baukästen altmodisch oder teuer.
+Viele Einsteiger lernen Arduino nur über fertige Beispielcodes. Die Grundlagen der digitalen Logik gehen dabei oft verloren. 
+Gleichzeitig wirken klassische Digitaltechnik-Baukästen oft altmodisch oder sind teuer.
 Deshalb kombiniere ich beides: digitale Grundschaltungen + Arduino + Visualisierung.
 Damit können Lernende verstehen, was wirklich passiert.
 
@@ -14,6 +15,13 @@ Ich baue in jedem Teil eine digitale Funktion nach und erkläre:
 
 ### Für wen ist es?
 Für Maker, Auszubildende, Schüler, Lehrer und Technikinteressierte.
+
+### Wie ist das Ganze aufgebaut
+Das ganze Projekt habe ich in fünf Kapitel von den Grundlagen bis hin zur SPS-Programmierung mit dem Arduino untergliedert.
+Die Kapitel sind so konzipiert, dass (hoffentlich) jeder fündig wwerden kann.
+Darum wünsche ich dir nun viel Spaß beim Durchstöbern meines Projketes.
+
+-----
 
 ## Kapitel 1: Grundlagen der Digitaltechnik
 **„Die Basis für alles“**
