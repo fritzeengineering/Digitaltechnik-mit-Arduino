@@ -1,18 +1,18 @@
 # Digitaltechnik mit Arduino
 Hallo, Willkommen bei meinem Projekt "Digitaltechnik mit Arduino".
 
-###Warum gibt es dieses Projekt?
+### Warum gibt es dieses Projekt?
 Viele Einsteiger lernen Arduino nur über fertige Beispielcodes. Die Grundlagen der digitalen Logik gehen dabei oft verloren. Gleichzeitig wirken klassische Digitaltechnik-Baukästen altmodisch oder teuer.
 Deshalb kombiniere ich beides: digitale Grundschaltungen + Arduino + Visualisierung.
 Damit können Lernende verstehen, was wirklich passiert.
 
-###Was mache ich?
+### Was mache ich?
 Ich baue in jedem Teil eine digitale Funktion nach und erkläre:
 - wie die Logik dahinter funktioniert
 - wie man sie mit einfachen Arduino-Beispielen testet
  -wie man Signale sichtbar macht (LEDs, serieller Plotter, Oszi-Simulation)
 
-###Für wen ist es?
+### Für wen ist es?
 Für Maker, Auszubildende, Schüler, Lehrer und Technikinteressierte.
 
 ## Kapitel 1: Grundlagen der Digitaltechnik
