@@ -2,51 +2,26 @@ In dieser Kategorie lernst du die wichtigsten Konzepte der Digitaltechnik kennen
 logische Grundfunktionen, Wahrheitstabellen, Pull-up/Pull-down-Widerstände und erste Arduino-Beispiele. 
 Ideal für Einsteiger, die verstehen wollen, wie digitale Schaltungen wirklich funktionieren.
 
-# Kapitel 1 – Was ist ein digitales Signal?  
-**Digitaltechnik mit Arduino – Grundlagen verstehen**
+Digitaltechnik verstehen mit Arduino
+Praxisnah erklärt – für Einsteiger, Maker und Lernende
+Willkommen zu meiner Projektserie „Digitaltechnik mit Arduino“.  
+Ich zeige hier Schritt für Schritt, wie man digitale Grundschaltungen mit einem Arduino nachbaut, versteht und sichtbar macht.
+🎯 Ziele des Projekts
+⦁	Digitale Logik praktisch verstehen
+⦁	Elektronik und Arduino kombinieren
+⦁	Signale sichtbar machen
+⦁	Lernmaterial für Maker, Schüler, Azubis und Lehrkräfte
+📚 Inhalt der Serie
+1.	Was ist ein digitales Signal?
+2.	UND-Gatter mit Arduino visualisieren
+3.	ODER- und NICHT-Gatter
+4.	Taktgeber
+5.	Flipflops
+6.	Kleine Projekte
+🧪 Teil 1 – Was ist ein digitales Signal?
+Ein digitales Signal hat zwei Zustände: HIGH (1) und LOW (0).  
+Wir testen das mit einer LED an Pin 8.
+🔜 Ausblick
+Als Nächstes: UND-Gatter.
 
-In diesem ersten Unterprojekt lernen wir den wichtigsten Baustein der gesamten Digitaltechnik kennen:  
-das **digitale Signal**.
 
-Wir untersuchen, wie ein Arduino digitale Zustände erzeugt, was High/Low bedeutet und führen ein klassisches Einstiegs-Experiment aus.
-
----
-
-## 🎯 Lernziele
-- Unterschied zwischen HIGH und LOW verstehen  
-- Arduino-Pins als digitale Ausgänge nutzen  
-- Takt und Periodendauer praktisch sehen  
-- Erste LEDs mit dem Mikrocontroller steuern  
-
----
-
-## 🔧 Hardware
-- Arduino Uno oder Nano  
-- 1 LED  
-- 1 Widerstand (220–330 Ω)  
-- Jumperkabel  
-- Breadboard  
-
----
-
-## 🧩 Schaltung
-Der digitale Ausgang **Pin 8** steuert die LED über einen Vorwiderstand.
-Schaltplan:  
-`/docs/visuals/schaltplan-kap1.png`
-
----
-
-## 💡 Codebeispiel: Digitales Blinken (1 Hz)
-Datei: `code/blink.ino`
-
-```cpp
-void setup() {
-  pinMode(8, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(8, HIGH);
-  delay(500);
-  digitalWrite(8, LOW);
-  delay(500);
-}
