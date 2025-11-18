@@ -38,13 +38,18 @@ Du erfährst, wie Eingänge mit Tastern und Ausgänge mit LEDs umgesetzt werden 
 In diesem Bereich geht es um die Kombination verschiedener Logikfunktionen: von einfachen Steuerungen bis hin zu kleinen Ampel- oder Sicherheitsschaltungen. 
 So erkennst du, wie komplexere Abläufe durch geschicktes Verknüpfen einfacher Bausteine entstehen.
 
-## Kapitel 4: Projekte & Praxis
+## Kapitel 4:Zustandsautomaten
+**"Vom Lernen zum Machen".**
+Komplexere Systeme wie Ampeln, Aufzüge oder Alarmanlagen lassen sich mit Zustandsautomaten modellieren. 
+Ich erkläre Schritt für Schritt, wie man mit dem Arduino solche Automaten programmiert, Zustände im Code abbildet und Übergänge definiert.
+
+## Kapitel 5: Projekte & Praxis
 **"Vom Lernen zum Machen".**
 Die Praxis ist das Herzstück: Hier findest du konkrete Arduino-Projekte, die du nachbauen oder als Inspiration nutzen kannst. 
 Komplexere Systeme wie Ampeln, Aufzüge oder Alarmanlagen lassen sich mit Zustandsautomaten modellieren.
 Ich erkläre dir Schritt für Schritt, wie du mit dem Arduino solche Automaten programmierst, Zustände im Code abbildest und Übergänge definierst.
 
-## Kapitel 5: Vom Arduino zur SPS
+## Kapitel 6: Vom Arduino zur SPS
 **„Abläufe und Steuerungen mit System“.**
 Eine SPS (Speicherprogrammierbare Steuerung) funktioniert im Kern wie ein digitaler „Industrie-Computer“, der speziell für Steuerungsaufgaben entwickelt wurde.
 Ich erkläre dir, wie man den Arduino wie eine SPS einsetzen kann. Natürlich kann der Arduino keine SPS ersetzen, aber man kann ihn nutzen um die Funktionalität von SPSen zu erklären.
