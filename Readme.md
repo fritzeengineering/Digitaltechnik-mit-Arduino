@@ -38,10 +38,10 @@ Du erfährst, wie Eingänge mit Tastern und Ausgänge mit LEDs umgesetzt werden 
 In diesem Bereich geht es um die Kombination verschiedener Logikfunktionen: von einfachen Steuerungen bis hin zu kleinen Ampel- oder Sicherheitsschaltungen. 
 So erkennst du, wie komplexere Abläufe durch geschicktes Verknüpfen einfacher Bausteine entstehen.
 
-## Kapitel 4:Zustandsautomaten
-**"Vom Lernen zum Machen".**
-Komplexere Systeme wie Ampeln, Aufzüge oder Alarmanlagen lassen sich mit Zustandsautomaten modellieren. 
-Ich erkläre Schritt für Schritt, wie man mit dem Arduino solche Automaten programmiert, Zustände im Code abbildet und Übergänge definiert.
+## Kapitel 4: Sequenzielle Digitalschaltungen
+**"Logikfunktionen mit Gedächtnis".**
+In dieser Kategorie geht es um die verschiedenen Arten von Flipflops und deren Verschaltung zu Zählern, Schieberegistern etc. Schaltungen, 
+die es ermöglichen Informationen zu speichern.
 
 ## Kapitel 5: Projekte & Praxis
 **"Vom Lernen zum Machen".**
